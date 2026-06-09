@@ -49,7 +49,27 @@ ab-test-marketing-analysis/
 
 ## Results
 
-*(To be updated after analysis is complete)*
+## Results
+
+### Statistical Test
+| Metric | Value |
+|--------|-------|
+| Ad group conversion rate | 2.55% (n=564,577) |
+| PSA group conversion rate | 1.79% (n=23,524) |
+| Absolute lift | 0.77% |
+| Relative lift | 43.1% |
+| Z-statistic | 7.3701 |
+| P-value | < 0.0001 |
+| Statistically significant | Yes |
+
+### Key Findings
+1. **Ad effectiveness confirmed**: The ad group outperformed the PSA group with 43.1% relative lift, statistically significant at the 99.99% confidence level.
+2. **Frequency effect**: Conversion rate increases with ad exposure (0.25% at 1–5 ads → 17.1% at 100+ ads), though this likely reflects selection bias rather than a causal relationship.
+3. **Day-of-week patterns**: Monday (3.32%) and Tuesday (3.04%) show the highest conversion rates; Thursday through Saturday are consistently lower.
+4. **Optimal time windows**: Afternoon to evening hours (14:00–22:00) show the highest conversion rates across all days.
+
+### Dashboard
+![Marketing A/B Test Dashboard](dashboard.png)
 
 ## Author
 
