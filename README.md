@@ -32,7 +32,7 @@ ab-test-marketing-analysis/
 │
 ├── data/               # Raw dataset (not tracked by git)
 ├── notebooks/
-│   └── ab_test_analysis.ipynb   # Main analysis notebook
+│   └── ab-test.ipynb   # Main analysis notebook
 ├── README.md
 ├── requirements.txt
 └── .gitignore
@@ -46,8 +46,6 @@ ab-test-marketing-analysis/
 - matplotlib
 - seaborn
 - Jupyter Notebook
-
-## Results
 
 ## Results
 
